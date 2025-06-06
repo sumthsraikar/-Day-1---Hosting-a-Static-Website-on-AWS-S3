@@ -86,8 +86,5 @@ You’ll need to update **permissions** to make the content publicly accessible:
 }
 
 
-Final Output:
+![Screenshot 2025-06-06 230853](https://github.com/user-attachments/assets/ab28bdfb-a684-46a2-af48-ee32e9c3dba9)
 
-![Screenshot 2025-06-06 224215](https://github.com/user-attachments/assets/0bdb0eb1-1f6a-4402-80ed-09b818810b3d)
-
-![Screenshot 2025-06-06 224215](https://github.com/user-attachments/assets/860f48a3-3ae6-4b6d-ba74-8791d57d5f72)
