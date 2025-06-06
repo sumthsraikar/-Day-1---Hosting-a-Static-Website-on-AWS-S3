@@ -86,8 +86,7 @@ You’ll need to update **permissions** to make the content publicly accessible:
 }
 
 
-#  Day 1 - Hosting a Static Website on AWS S3
----
+#  Final Output:
 
 ![Screenshot 2025-06-06 230853](https://github.com/user-attachments/assets/ab28bdfb-a684-46a2-af48-ee32e9c3dba9)
 
